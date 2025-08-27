@@ -1,0 +1,116 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-08-27T00:00:00Z",
+  "totalProfiles": 3,
+  "categories": [
+    {
+      "id": "all",
+      "name": "All Missionaries", 
+      "count": 3
+    },
+    {
+      "id": "missionary",
+      "name": "Missionaries",
+      "count": 3
+    },
+    {
+      "id": "translator",
+      "name": "Bible Translators",
+      "count": 1
+    },
+    {
+      "id": "social_reformer", 
+      "name": "Social Reformers",
+      "count": 2
+    },
+    {
+      "id": "children_advocate",
+      "name": "Children's Advocates", 
+      "count": 1
+    }
+  ],
+  "profiles": [
+    {
+      "id": "william-carey",
+      "name": "William Carey",
+      "displayName": "William Carey",
+      "dates": {
+        "birth": 1761,
+        "death": 1834,
+        "display": "1761-1834"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/William_Carey_by_Robert_Home.jpg/256px-William_Carey_by_Robert_Home.jpg",
+      "summary": "English Christian missionary, translator, and founder of modern Protestant missions. Known as the 'Father of Modern Missions.'",
+      "categories": ["missionary", "translator", "educator", "social_reformer", "baptist"],
+      "countries": ["England", "India"],
+      "primaryLocation": "Serampore, India",
+      "lastModified": "2025-08-27T00:00:00Z",
+      "featured": true
+    },
+    {
+      "id": "hudson-taylor",
+      "name": "Hudson Taylor", 
+      "displayName": "James Hudson Taylor",
+      "dates": {
+        "birth": 1832,
+        "death": 1905,
+        "display": "1832-1905"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hudson_Taylor_1865.jpg/256px-Hudson_Taylor_1865.jpg",
+      "summary": "British Protestant missionary to China who founded the China Inland Mission and pioneered indigenous missionary methods.",
+      "categories": ["missionary", "mission_founder", "china", "interdenominational"],
+      "countries": ["England", "China"],
+      "primaryLocation": "China",
+      "lastModified": "2025-08-27T00:00:00Z",
+      "featured": true
+    },
+    {
+      "id": "amy-carmichael",
+      "name": "Amy Carmichael",
+      "displayName": "Amy Beatrice Carmichael", 
+      "dates": {
+        "birth": 1867,
+        "death": 1951,
+        "display": "1867-1951"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Amy_Carmichael.jpg/256px-Amy_Carmichael.jpg",
+      "summary": "Irish missionary to India who rescued hundreds of children from temple prostitution and founded the Dohnavur Fellowship.",
+      "categories": ["missionary", "social_reformer", "children_advocate", "author", "ireland"],
+      "countries": ["Ireland", "India"],
+      "primaryLocation": "Dohnavur, India",
+      "lastModified": "2025-08-27T00:00:00Z",
+      "featured": true
+    }
+  ],
+  "searchIndex": {
+    "keywords": [
+      "william carey india translator baptist serampore",
+      "hudson taylor china inland mission indigenous", 
+      "amy carmichael ireland children rescue dohnavur"
+    ],
+    "locations": [
+      "India",
+      "China", 
+      "England",
+      "Ireland",
+      "Serampore",
+      "Dohnavur",
+      "Shanghai",
+      "Yangzhou"
+    ],
+    "timeRanges": [
+      {
+        "period": "18th Century",
+        "profiles": ["william-carey"]
+      },
+      {
+        "period": "19th Century", 
+        "profiles": ["william-carey", "hudson-taylor", "amy-carmichael"]
+      },
+      {
+        "period": "20th Century",
+        "profiles": ["hudson-taylor", "amy-carmichael"]
+      }
+    ]
+  }
+}

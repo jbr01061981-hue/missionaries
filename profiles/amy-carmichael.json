@@ -1,0 +1,146 @@
+{
+  "id": "amy-carmichael",
+  "name": "Amy Carmichael",
+  "displayName": "Amy Beatrice Carmichael",
+  "dates": {
+    "birth": 1867,
+    "death": 1951,
+    "display": "1867-1951"
+  },
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Amy_Carmichael.jpg/256px-Amy_Carmichael.jpg",
+  "summary": "Irish Christian missionary in India who served for 55 years without furlough. She rescued hundreds of children from temple prostitution and founded the Dohnavur Fellowship.",
+  "biography": [
+    {
+      "title": "Early Life in Ireland",
+      "content": "Amy Beatrice Carmichael was born on 16 December 1867 in the village of Millisle, County Down, Ireland. She was the eldest of seven children in a devout Presbyterian family."
+    },
+    {
+      "title": "Call to Service",
+      "content": "At age 20, Amy felt called to missionary service after hearing Hudson Taylor speak. She first served briefly in Japan before finding her life's work in India."
+    },
+    {
+      "title": "Rescue Work in India",
+      "content": "In 1901, Amy rescued her first child from temple prostitution. This began her lifelong work of rescuing children, particularly girls, from exploitation and abuse."
+    },
+    {
+      "title": "Dohnavur Fellowship",
+      "content": "Amy established the Dohnavur Fellowship, a community that became home to over 900 rescued children. The fellowship operated schools, hospitals, and provided family-style care."
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1867,
+      "event": "Born in Ireland",
+      "description": "Amy Carmichael born in Millisle, County Down"
+    },
+    {
+      "year": 1887,
+      "event": "Began ministry work",
+      "description": "Started work among mill girls in Belfast"
+    },
+    {
+      "year": 1893,
+      "event": "Sailed to Japan",
+      "description": "First missionary assignment in Japan (15 months)"
+    },
+    {
+      "year": 1895,
+      "event": "Arrived in India",
+      "description": "Began work in South India, never to return home"
+    },
+    {
+      "year": 1901,
+      "event": "First child rescue",
+      "description": "Rescued Preena, a 7-year-old girl from temple prostitution"
+    },
+    {
+      "year": 1904,
+      "event": "Established Dohnavur",
+      "description": "Founded the Dohnavur Fellowship in Tamil Nadu"
+    },
+    {
+      "year": 1931,
+      "event": "Serious accident",
+      "description": "Fell into a pit, injuring her back and becoming bedridden"
+    },
+    {
+      "year": 1951,
+      "event": "Died in Dohnavur",
+      "description": "Passed away after 55 years of service in India"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Millisle, Ireland",
+      "lat": 54.5167,
+      "lng": -5.4833,
+      "type": "birthplace",
+      "years": "1867-1895",
+      "description": "Birthplace and early ministry in Belfast"
+    },
+    {
+      "name": "Matsue, Japan",
+      "lat": 35.4722,
+      "lng": 133.0506,
+      "type": "mission_field",
+      "years": "1893-1894",
+      "description": "Brief missionary service in Japan"
+    },
+    {
+      "name": "Bangalore, India",
+      "lat": 12.9716,
+      "lng": 77.5946,
+      "type": "mission_field",
+      "years": "1895-1901",
+      "description": "Initial work in South India"
+    },
+    {
+      "name": "Dohnavur, India",
+      "lat": 8.3833,
+      "lng": 77.2833,
+      "type": "mission_field",
+      "years": "1901-1951",
+      "description": "Founded and led the Dohnavur Fellowship"
+    }
+  ],
+  "categories": ["missionary", "social_reformer", "children_advocate", "author", "ireland"],
+  "quiz": [
+    {
+      "question": "How many years did Amy Carmichael serve in India without returning home?",
+      "options": ["35 years", "45 years", "55 years", "65 years"],
+      "answer": 2,
+      "explanation": "Amy Carmichael served in India for 55 years without taking a single furlough home."
+    },
+    {
+      "question": "What was the name of the organization Amy founded?",
+      "options": ["Dohnavur Fellowship", "Tamil Mission", "Indian Children's Home", "Carmichael Foundation"],
+      "answer": 0,
+      "explanation": "The Dohnavur Fellowship was established to rescue and care for children."
+    },
+    {
+      "question": "From what danger did Amy primarily rescue children?",
+      "options": ["Poverty", "Disease", "Temple prostitution", "Child labor"],
+      "answer": 2,
+      "explanation": "Amy focused on rescuing children, especially girls, from temple prostitution."
+    },
+    {
+      "question": "In which country was Amy Carmichael born?",
+      "options": ["England", "Scotland", "Ireland", "Wales"],
+      "answer": 2,
+      "explanation": "Amy Carmichael was born in Millisle, County Down, Ireland."
+    }
+  ],
+  "achievements": [
+    "Served 55 years in India without furlough",
+    "Rescued hundreds of children from exploitation",
+    "Founded Dohnavur Fellowship",
+    "Wrote 35 books about missionary life and faith",
+    "Established schools and medical facilities",
+    "Created family-style care for over 900 children"
+  ],
+  "source": "github",
+  "sourceUrl": "https://github.com/YOUR-USERNAME/missionary-profiles-data/blob/main/profiles/amy-carmichael.json", 
+  "attribution": "Content compiled from multiple public domain sources including Wikipedia",
+  "lastModified": "2025-08-27T00:00:00Z",
+  "lang": "en"
+}

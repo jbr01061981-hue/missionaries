@@ -1,4 +1,3 @@
-# missionaries
 # Missionary Profiles Data
 
 This repository contains biographical data for missionaries throughout history, used by the Missionary Profiles Flutter app.

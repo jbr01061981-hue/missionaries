@@ -1,0 +1,138 @@
+{
+  "id": "william-carey",
+  "name": "William Carey",
+  "displayName": "William Carey",
+  "dates": {
+    "birth": 1761,
+    "death": 1834,
+    "display": "1761-1834"
+  },
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/William_Carey_by_Robert_Home.jpg/256px-William_Carey_by_Robert_Home.jpg",
+  "summary": "English Christian missionary, Particular Baptist minister, translator, social reformer and cultural anthropologist who founded the Serampore College and the Serampore Mission.",
+  "biography": [
+    {
+      "title": "Early Life",
+      "content": "William Carey was born on 17 August 1761 in the village of Paulerspury in Northamptonshire, England. He was the eldest son of Edmund and Elizabeth Carey. His father worked as a parish clerk and village schoolmaster."
+    },
+    {
+      "title": "Call to Missions",
+      "content": "Carey became deeply interested in missions after reading about Captain James Cook's voyages. In 1792, he preached his famous sermon containing the phrases 'Expect great things from God; attempt great things for God.'"
+    },
+    {
+      "title": "Mission to India", 
+      "content": "In 1793, Carey sailed for India with his family. He established the Serampore Mission in 1800, which became a center for translation work, education, and social reform."
+    },
+    {
+      "title": "Translation Work",
+      "content": "Carey translated the Bible into Bengali, Oriya, Hindi, Marathi, Sanskrit, and Assamese. He also translated parts of the Bible into 29 other languages."
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1761,
+      "event": "Born in Paulerspury",
+      "description": "William Carey was born in Northamptonshire, England"
+    },
+    {
+      "year": 1783,
+      "event": "Became a Baptist",
+      "description": "Converted to Baptist faith and began preaching"
+    },
+    {
+      "year": 1792,
+      "event": "Founded Baptist Missionary Society",
+      "description": "Helped establish the first English Baptist missionary organization"
+    },
+    {
+      "year": 1793,
+      "event": "Sailed to India",
+      "description": "Departed for India as first missionary of the Baptist Missionary Society"
+    },
+    {
+      "year": 1800,
+      "event": "Established Serampore Mission",
+      "description": "Founded mission station that became center of Protestant missions in India"
+    },
+    {
+      "year": 1818,
+      "event": "Founded Serampore College",
+      "description": "Established college for educating Christian ministers and teachers"
+    },
+    {
+      "year": 1834,
+      "event": "Died in Serampore",
+      "description": "Passed away after 41 years of missionary service in India"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Paulerspury, England",
+      "lat": 52.0847,
+      "lng": -0.9364,
+      "type": "birthplace",
+      "years": "1761-1793",
+      "description": "Birthplace and early ministry location"
+    },
+    {
+      "name": "Serampore, India",
+      "lat": 22.7521,
+      "lng": 88.3424,
+      "type": "mission_field",
+      "years": "1800-1834",
+      "description": "Primary mission station and translation center"
+    },
+    {
+      "name": "Calcutta, India",
+      "lat": 22.5726,
+      "lng": 88.3639,
+      "type": "mission_field", 
+      "years": "1793-1799",
+      "description": "Initial ministry location in India"
+    }
+  ],
+  "categories": ["missionary", "translator", "educator", "social_reformer", "baptist"],
+  "quiz": [
+    {
+      "question": "In which country did William Carey serve as a missionary?",
+      "options": ["China", "India", "Africa", "Japan"],
+      "answer": 1,
+      "explanation": "William Carey served in India for 41 years, primarily at the Serampore Mission."
+    },
+    {
+      "question": "What famous phrase is associated with William Carey's missionary call?",
+      "options": [
+        "Go into all the world",
+        "Expect great things from God; attempt great things for God",
+        "The world is my parish", 
+        "Here am I, send me"
+      ],
+      "answer": 1,
+      "explanation": "This phrase from his 1792 sermon became the motto of modern missions."
+    },
+    {
+      "question": "How many languages did Carey translate the Bible into?",
+      "options": ["5 languages", "15 languages", "Over 30 languages", "50 languages"],
+      "answer": 2,
+      "explanation": "Carey translated the complete Bible into 6 languages and parts of it into 29 others."
+    },
+    {
+      "question": "What institution did Carey establish in 1818?",
+      "options": ["Calcutta University", "Serampore College", "Baptist Seminary", "Medical School"],
+      "answer": 1,
+      "explanation": "Serampore College was founded to train Christian ministers and teachers."
+    }
+  ],
+  "achievements": [
+    "Founded the Baptist Missionary Society (1792)",
+    "Translated Bible into 6 complete languages",
+    "Translated Bible portions into 29 additional languages",
+    "Established Serampore College (1818)",
+    "Pioneered modern Protestant missions",
+    "Promoted social reforms including abolition of sati"
+  ],
+  "source": "github",
+  "sourceUrl": "https://github.com/YOUR-USERNAME/missionary-profiles-data/blob/main/profiles/william-carey.json",
+  "attribution": "Content compiled from multiple public domain sources including Wikipedia",
+  "lastModified": "2025-08-27T00:00:00Z",
+  "lang": "en"
+}

@@ -1,0 +1,247 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-08-27T00:00:00Z",
+  "totalLocations": 11,
+  "locations": [
+    {
+      "id": "paulerspury-england",
+      "name": "Paulerspury, England",
+      "lat": 52.0847,
+      "lng": -0.9364,
+      "type": "birthplace",
+      "country": "England",
+      "missionaries": [
+        {
+          "id": "william-carey",
+          "name": "William Carey",
+          "years": "1761-1793",
+          "description": "Birthplace and early ministry location",
+          "role": "birthplace"
+        }
+      ],
+      "significance": "Birthplace of William Carey, the 'Father of Modern Missions'"
+    },
+    {
+      "id": "serampore-india",
+      "name": "Serampore, India",
+      "lat": 22.7521,
+      "lng": 88.3424,
+      "type": "mission_field",
+      "country": "India",
+      "missionaries": [
+        {
+          "id": "william-carey",
+          "name": "William Carey", 
+          "years": "1800-1834",
+          "description": "Primary mission station and translation center",
+          "role": "mission_field"
+        }
+      ],
+      "significance": "Center of Bible translation work and Protestant missions in India"
+    },
+    {
+      "id": "calcutta-india",
+      "name": "Calcutta, India",
+      "lat": 22.5726,
+      "lng": 88.3639,
+      "type": "mission_field",
+      "country": "India",
+      "missionaries": [
+        {
+          "id": "william-carey",
+          "name": "William Carey",
+          "years": "1793-1799", 
+          "description": "Initial ministry location in India",
+          "role": "mission_field"
+        }
+      ],
+      "significance": "Gateway to India for early Protestant missions"
+    },
+    {
+      "id": "barnsley-england", 
+      "name": "Barnsley, England",
+      "lat": 53.5526,
+      "lng": -1.4797,
+      "type": "birthplace",
+      "country": "England",
+      "missionaries": [
+        {
+          "id": "hudson-taylor",
+          "name": "Hudson Taylor",
+          "years": "1832-1854",
+          "description": "Birthplace and early ministry preparation",
+          "role": "birthplace"
+        }
+      ],
+      "significance": "Birthplace of Hudson Taylor, founder of China Inland Mission"
+    },
+    {
+      "id": "shanghai-china",
+      "name": "Shanghai, China", 
+      "lat": 31.2304,
+      "lng": 121.4737,
+      "type": "mission_field",
+      "country": "China",
+      "missionaries": [
+        {
+          "id": "hudson-taylor",
+          "name": "Hudson Taylor",
+          "years": "1854-1860",
+          "description": "Initial mission work and language learning",
+          "role": "mission_field"
+        }
+      ],
+      "significance": "Major port city and center for missionary work in China"
+    },
+    {
+      "id": "ningbo-china",
+      "name": "Ningbo, China",
+      "lat": 29.8683,
+      "lng": 121.5440,
+      "type": "mission_field", 
+      "country": "China",
+      "missionaries": [
+        {
+          "id": "hudson-taylor", 
+          "name": "Hudson Taylor",
+          "years": "1857-1860",
+          "description": "Mission station work",
+          "role": "mission_field"
+        }
+      ],
+      "significance": "Early China Inland Mission station"
+    },
+    {
+      "id": "yangzhou-china",
+      "name": "Yangzhou, China",
+      "lat": 32.3932,
+      "lng": 119.4208,
+      "type": "mission_field",
+      "country": "China",
+      "missionaries": [
+        {
+          "id": "hudson-taylor",
+          "name": "Hudson Taylor",
+          "years": "1868-1900", 
+          "description": "Major mission center and CIM headquarters",
+          "role": "mission_field"
+        }
+      ],
+      "significance": "China Inland Mission headquarters and training center"
+    },
+    {
+      "id": "changsha-china",
+      "name": "Changsha, China",
+      "lat": 28.2278,
+      "lng": 112.9388,
+      "type": "final_resting_place",
+      "country": "China", 
+      "missionaries": [
+        {
+          "id": "hudson-taylor",
+          "name": "Hudson Taylor",
+          "years": "1905",
+          "description": "Where Hudson Taylor died",
+          "role": "final_resting_place"
+        }
+      ],
+      "significance": "Final resting place of Hudson Taylor"
+    },
+    {
+      "id": "millisle-ireland",
+      "name": "Millisle, Ireland",
+      "lat": 54.5167,
+      "lng": -5.4833,
+      "type": "birthplace",
+      "country": "Ireland",
+      "missionaries": [
+        {
+          "id": "amy-carmichael",
+          "name": "Amy Carmichael",
+          "years": "1867-1895",
+          "description": "Birthplace and early ministry in Belfast", 
+          "role": "birthplace"
+        }
+      ],
+      "significance": "Birthplace of Amy Carmichael, rescuer of children in India"
+    },
+    {
+      "id": "matsue-japan",
+      "name": "Matsue, Japan",
+      "lat": 35.4722,
+      "lng": 133.0506,
+      "type": "mission_field",
+      "country": "Japan",
+      "missionaries": [
+        {
+          "id": "amy-carmichael", 
+          "name": "Amy Carmichael",
+          "years": "1893-1894",
+          "description": "Brief missionary service in Japan",
+          "role": "mission_field"
+        }
+      ],
+      "significance": "Amy Carmichael's brief but formative missionary experience"
+    },
+    {
+      "id": "dohnavur-india",
+      "name": "Dohnavur, India",
+      "lat": 8.3833,
+      "lng": 77.2833,
+      "type": "mission_field",
+      "country": "India",
+      "missionaries": [
+        {
+          "id": "amy-carmichael",
+          "name": "Amy Carmichael",
+          "years": "1901-1951",
+          "description": "Founded and led the Dohnavur Fellowship",
+          "role": "mission_field"
+        }
+      ],
+      "significance": "Dohnavur Fellowship - rescue center for exploited children"
+    }
+  ],
+  "countries": [
+    {
+      "name": "England",
+      "code": "GB",
+      "missionaryCount": 2,
+      "locationCount": 2
+    },
+    {
+      "name": "India", 
+      "code": "IN",
+      "missionaryCount": 2,
+      "locationCount": 3
+    },
+    {
+      "name": "China",
+      "code": "CN", 
+      "missionaryCount": 1,
+      "locationCount": 5
+    },
+    {
+      "name": "Ireland",
+      "code": "IE",
+      "missionaryCount": 1,
+      "locationCount": 1
+    },
+    {
+      "name": "Japan",
+      "code": "JP",
+      "missionaryCount": 1,
+      "locationCount": 1
+    }
+  ],
+  "mapSettings": {
+    "defaultZoom": 2,
+    "centerLat": 20.0,
+    "centerLng": 0.0,
+    "markerColors": {
+      "birthplace": "#4CAF50",
+      "mission_field": "#2196F3", 
+      "final_resting_place": "#9C27B0"
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "id": "hudson-taylor",
+  "name": "Hudson Taylor",
+  "displayName": "James Hudson Taylor",
+  "dates": {
+    "birth": 1832,
+    "death": 1905,
+    "display": "1832-1905"
+  },
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hudson_Taylor_1865.jpg/256px-Hudson_Taylor_1865.jpg",
+  "summary": "British Protestant Christian missionary to China and founder of the China Inland Mission. Taylor spent 51 years in China and was known for adopting Chinese dress and customs.",
+  "biography": [
+    {
+      "title": "Early Life and Calling",
+      "content": "James Hudson Taylor was born on 21 May 1832 in Barnsley, Yorkshire, England. At age 17, he experienced a spiritual conversion and felt called to serve as a missionary to China."
+    },
+    {
+      "title": "First Journey to China",
+      "content": "In 1854, at age 21, Taylor sailed to China under the Chinese Evangelization Society. He worked in Shanghai and learned Chinese language and customs."
+    },
+    {
+      "title": "China Inland Mission",
+      "content": "In 1865, Taylor founded the China Inland Mission (CIM), an interdenominational mission organization that became one of the largest missionary societies in China."
+    },
+    {
+      "title": "Indigenous Approach",
+      "content": "Taylor pioneered wearing Chinese clothing and adopting local customs, believing this would make the Gospel more acceptable to Chinese people. This approach was initially controversial but proved effective."
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1832,
+      "event": "Born in Barnsley",
+      "description": "James Hudson Taylor born in Yorkshire, England"
+    },
+    {
+      "year": 1849,
+      "event": "Spiritual Conversion",
+      "description": "Experienced conversion and call to missions at age 17"
+    },
+    {
+      "year": 1854,
+      "event": "First voyage to China",
+      "description": "Sailed to China under Chinese Evangelization Society"
+    },
+    {
+      "year": 1857,
+      "event": "Returned to England",
+      "description": "Came back due to illness but continued promoting China missions"
+    },
+    {
+      "year": 1865,
+      "event": "Founded China Inland Mission",
+      "description": "Established mission organization focusing on interior China"
+    },
+    {
+      "year": 1866,
+      "event": "Returned to China with team",
+      "description": "Led group of 16 missionaries to China"
+    },
+    {
+      "year": 1900,
+      "event": "Boxer Rebellion",
+      "description": "CIM lost 58 missionaries and 21 children during persecution"
+    },
+    {
+      "year": 1905,
+      "event": "Died in Changsha",
+      "description": "Passed away in China after 51 years of service"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Barnsley, England",
+      "lat": 53.5526,
+      "lng": -1.4797,
+      "type": "birthplace",
+      "years": "1832-1854",
+      "description": "Birthplace and early ministry preparation"
+    },
+    {
+      "name": "Shanghai, China",
+      "lat": 31.2304,
+      "lng": 121.4737,
+      "type": "mission_field",
+      "years": "1854-1860",
+      "description": "Initial mission work and language learning"
+    },
+    {
+      "name": "Ningbo, China", 
+      "lat": 29.8683,
+      "lng": 121.5440,
+      "type": "mission_field",
+      "years": "1857-1860",
+      "description": "Mission station work"
+    },
+    {
+      "name": "Yangzhou, China",
+      "lat": 32.3932,
+      "lng": 119.4208,
+      "type": "mission_field",
+      "years": "1868-1900",
+      "description": "Major mission center and CIM headquarters"
+    },
+    {
+      "name": "Changsha, China",
+      "lat": 28.2278,
+      "lng": 112.9388,
+      "type": "final_resting_place",
+      "years": "1905",
+      "description": "Where Hudson Taylor died"
+    }
+  ],
+  "categories": ["missionary", "mission_founder", "china", "interdenominational"],
+  "quiz": [
+    {
+      "question": "What mission organization did Hudson Taylor found?",
+      "options": ["London Missionary Society", "China Inland Mission", "Chinese Evangelization Society", "Baptist Missionary Society"],
+      "answer": 1,
+      "explanation": "Hudson Taylor founded the China Inland Mission in 1865."
+    },
+    {
+      "question": "What was unique about Taylor's missionary approach?",
+      "options": ["He focused only on cities", "He adopted Chinese dress and customs", "He only worked with other denominations", "He refused to learn Chinese"],
+      "answer": 1,
+      "explanation": "Taylor was known for adopting Chinese clothing and customs to better connect with the people."
+    },
+    {
+      "question": "How many years did Hudson Taylor serve in China?",
+      "options": ["25 years", "35 years", "51 years", "60 years"],
+      "answer": 2,
+      "explanation": "Taylor spent 51 years serving in China, from 1854 until his death in 1905."
+    },
+    {
+      "question": "During which event did CIM lose many missionaries?",
+      "options": ["Taiping Rebellion", "Boxer Rebellion", "Opium Wars", "Cultural Revolution"],
+      "answer": 1,
+      "explanation": "During the Boxer Rebellion in 1900, CIM lost 58 missionaries and 21 children."
+    }
+  ],
+  "achievements": [
+    "Founded China Inland Mission (1865)",
+    "Pioneered indigenous missionary methods",
+    "Brought over 800 missionaries to China",
+    "Established mission stations throughout interior China",
+    "Translated Christian materials into Chinese",
+    "Served in China for 51 years"
+  ],
+  "source": "github", 
+  "sourceUrl": "https://github.com/YOUR-USERNAME/missionary-profiles-data/blob/main/profiles/hudson-taylor.json",
+  "attribution": "Content compiled from multiple public domain sources including Wikipedia",
+  "lastModified": "2025-08-27T00:00:00Z",
+  "lang": "en"
+}
